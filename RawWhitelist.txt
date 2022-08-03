@@ -30,6 +30,8 @@ ws-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ws-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
+# This was added to allow flexmls app to work 8/3/2022
+cdn.mxpnl.com
 
 # This was added to allow my bank app to work 8/3/2022
 s2s.mparticle.com
