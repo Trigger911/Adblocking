@@ -1,6 +1,6 @@
 Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
-# Updating and fixing for Myself and Family use Trigger911
+# Updating and fixing for Myself and Family use Trigger911 https://github.com/Trigger911/Adblocking
 # PracticalChip was updating but its been awhile and I required some changes
 
 
