@@ -34,6 +34,7 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 # This was added to allow my bank app to work 8/3/2022
 s2s.mparticle.com
 api.mixpanel.com
+decide.mixpanel.com
 
 
 # This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99) added on 8/3/2022
