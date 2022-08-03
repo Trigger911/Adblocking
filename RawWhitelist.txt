@@ -1,11 +1,12 @@
-# Contributed by PracticalChip
-# Updating and fixing for Myself and Family use Trigger911
+Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
+# Updating and fixing for Myself and Family use Trigger911
+# PracticalChip was updating but its been awhile and I required some changes
+
 
 # This was added at the request of the developer of Diversion
-
 steamcdn-a.akamaihd.net
-media.steampowered.com	
+media.steampowered.com
 media4.steampowered.com
 aax-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 aax-us-east.amazon-adsystem.com # whitelisted for smallnetbuilder.com
@@ -29,8 +30,8 @@ ws-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ws-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
-# This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99)
 
+# This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99)
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 aax-us-east.amazon-adsystem.com
@@ -57,8 +58,6 @@ aax-us-east-rtb.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 rcm-images.amazon.com
-aax-eu.amazon-adsystem.com
-s.amazon-adsystem.com
 aan.amazon.com
 aax-cpm.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
@@ -76,43 +75,17 @@ ir-jp.amazon-adsystem.com
 ps-jp.amazon-adsystem.com
 rcm-fe.amazon-adsystem.com
 ws-fe.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-c.amazon-adsystem.com
-mads.amazon-adsystem.com
-s.amazon-adsystem.com
 fls-na.amazon-adsystem.com
 rcm-eu.amazon-adsystem.com
 ws-eu.amazon-adsystem.com
 wms-eu.amazon-adsystem.com
 wms-na.amazon-adsystem.com
 ws-na.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-ir-de.amazon-adsystem.com
-ir-uk.amazon-adsystem.com
 aax.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-ps-eu.amazon-adsystem.com
-ps-us.amazon-adsystem.com
-z-na.amazon-adsystem.com
-aax-us-east-rtb.amazon-adsystem.com
-ir-na.amazon-adsystem.com
-rcm-na.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-s.amazon-adsystem.com
-aax-cpm.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
-amazon-adsystem.com
-dra.amazon-adsystem.com
-ws-ea.amazon-adsystem.com
-fls-fe.amazon-adsystem.com
-ir-jp.amazon-adsystem.com
-ps-jp.amazon-adsystem.com
-rcm-fe.amazon-adsystem.com
-ws-fe.amazon-adsystem.com
 api.segment.io
 
-# Begin Unbreak whitelist.
 
+# Begin Unbreak whitelist.
 choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
 aax-us-iad.amazon.com
@@ -137,8 +110,6 @@ a-msedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
-aax.amazon-adsystem.com
 about.me
 about.medium.com
 accounts.elephantjournal.com
@@ -239,7 +210,6 @@ brightcove.net
 bt.com
 bufferapp.com
 bwp.techrepublic.com
-c.amazon-adsystem.com
 c.microsoft.com
 c.s-microsoft.com
 c0.wp.com
@@ -367,8 +337,6 @@ dev.virtualearth.net
 developer.android.com
 developers.google.com
 developers.medium.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 device.auth.xboxlive.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
@@ -473,7 +441,6 @@ files.overclock.net
 filters.adtidy.org
 financialexpress.com
 flipkart.com
-fls-na.amazon.com
 fonts.googleapis.com
 fonts.gstatic.com
 forms.convertkit.com
@@ -630,7 +597,6 @@ m.hotmail.com
 m.techrepublic.com
 m.weeklyad.target.com
 ma.techrepublic.com
-mads.amazon-adsystem.com
 mail-attachment.googleusercontent.com
 mail.yahoo.com
 mail01.tinyletterapp.com
@@ -865,7 +831,6 @@ rover.ebay.com
 rt.com
 rukminim1.flixcart.com
 s-msft.com
-s.amazon-adsystem.com
 s.cdn.turner.com
 s.gateway.messenger.live.com
 s.gravatar.com
