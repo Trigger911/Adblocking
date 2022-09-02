@@ -39,6 +39,9 @@ api.mixpanel.com
 decide.mixpanel.com
 wzrkt.com
 
+# Time Servers
+nist.gov 
+
 
 # This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99) added on 8/3/2022
 device-metrics-us.amazon.com
