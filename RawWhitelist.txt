@@ -8,6 +8,13 @@ Contributed by PracticalChip
 steamcdn-a.akamaihd.net
 media.steampowered.com
 media4.steampowered.com
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamcontent.com
+steamstatic.com
+akamaihd.net
 
 
 # This was added to allow flexmls app to work 8/3/2022
@@ -22,7 +29,7 @@ wzrkt.com
 # Time Servers
 nist.gov 
 
-# This was added to fix Steam Captians 10-28-2022
+# This was added to fix Stream Raiders 10-28-2022
 streamcap-prod1.s3.amazonaws.com
 
 # This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99) added on 8/3/2022
