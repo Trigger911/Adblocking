@@ -29,6 +29,9 @@ wzrkt.com
 # Time Servers
 nist.gov 
 
+#Geforce Issues
+nvidia.com
+
 # This was added to fix Stream Raiders 10-28-2022
 streamcap-prod1.s3.amazonaws.com
 
