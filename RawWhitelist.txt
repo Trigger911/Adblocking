@@ -8,6 +8,9 @@ adlice.com
 malwarebytes.com
 opera.com
 
+# CDKeys Redirector
+ojrq.net
+
 # This was added For Steam
 steamcdn-a.akamaihd.net
 media.steampowered.com
