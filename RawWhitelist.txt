@@ -27,15 +27,8 @@ akamaihd.net
 sdk.iad-05.braze.com
 beacons.gcp.gvt2.com
 
-
 # This was added to allow flexmls app to work 8/3/2022
 cdn.mxpnl.com
-
-# This was added to allow my bank app to work 8/3/2022
-s2s.mparticle.com
-api.mixpanel.com
-decide.mixpanel.com
-wzrkt.com
 
 # Time Servers
 nist.gov 
@@ -47,8 +40,6 @@ nvidia.com
 browser.pipe.aria.microsoft.com
 watson.telemetry.microsoft.com
 
-# This was added to fix Stream Raiders 10-28-2022
-# streamcap-prod1.s3.amazonaws.com
 
 # This was added to fix Amazon App (https://gist.github.com/lngarrett/7d18f58e2b86cd3a9c244bddd3cb1c99) added on 8/3/2022
 device-metrics-us.amazon.com
