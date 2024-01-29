@@ -25,6 +25,8 @@ akamaihd.net
 
 #Stuff I added for work 
 sdk.iad-05.braze.com
+beacons.gcp.gvt2.com
+
 
 # This was added to allow flexmls app to work 8/3/2022
 cdn.mxpnl.com
