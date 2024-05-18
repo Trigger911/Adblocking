@@ -7,6 +7,8 @@ Contributed by PracticalChip
 adlice.com
 malwarebytes.com
 opera.com
+grammarly.com
+
 
 # CDKeys Redirector
 ojrq.net
