@@ -1,0 +1,12 @@
+Router Repair Notes:
+
+This command will tell you the current media type for the eth port
+-------------------------------------
+ethctl eth4 media-type
+
+Output will look like this
+This will tell eth4 to be 1000FD
+-------------------------------------
+ethctl eth4 media-type 1000FD
+
+#####################################
