@@ -8,8 +8,18 @@ adlice.com
 malwarebytes.com
 opera.com
 grammarly.com
+
 # Fetch
+fetch.com
+fetchrewards.com
 playtimeweb.com
+://playtimeweb.com
+adj.st
+adjust.com
+app-measurement.com
+google-analytics.com
+://googleapis.com
+://googleapis.com
 
 
 # CDKeys Redirector
