@@ -8,6 +8,8 @@ adlice.com
 malwarebytes.com
 opera.com
 grammarly.com
+# Fetch
+playtimeweb.com
 
 
 # CDKeys Redirector
