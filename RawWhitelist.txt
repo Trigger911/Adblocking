@@ -21,6 +21,11 @@ google-analytics.com
 ://googleapis.com
 ://googleapis.com
 
+#Twitch Stuff
+seen.gg
+clips.twitch.tv
+ttvnw.net
+
 
 # CDKeys Redirector
 ojrq.net
