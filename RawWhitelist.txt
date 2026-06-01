@@ -9,6 +9,14 @@ malwarebytes.com
 opera.com
 grammarly.com
 
+#Bambu Printer
+bambulab.com
+api.bambulab.com
+us.api.bambulab.com
+all-us-mqtt.bambulab.com
+makerworld.com
+bambu-lab.com
+
 # Fetch
 fetch.com
 fetchrewards.com
