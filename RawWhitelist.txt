@@ -16,6 +16,7 @@ us.api.bambulab.com
 all-us-mqtt.bambulab.com
 makerworld.com
 bambu-lab.com
+upgrade-file.bambulab.com
 
 # Fetch
 fetch.com
